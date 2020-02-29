@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(about.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+ 	font-style: algerian;
+	padding: 20px;
+	color: white;
+}
+label{
+	color: white;
+	font-size: 20px;
+	font-style: italic;
+}
+.reg{
+	width: 40%;
+	margin: auto;
+	background-color: rgb(0,0,0,0.4);
+	padding: 10px;
+}
+#register{
+	width: 60%;
+	margin: auto;
+
+}
+#name{
+	width: 300px;
+	outline: 0;
+	padding: 5px;
+	border :3px groove;
+}
+#sub{
+	width: 300px;
+	outline: 0;
+	padding: 5px;
+	border: 3px groove;
+	color: white;
+	font-size: 18px;
+	font-style: sans-serif;
+	background-color: green;
+
+}
+#male{
+	color: white;
+	font-size: 20px;
+	font-style: italic;
+
+
+}
+#ch{
+	color: white;
+	font-size: 20px;
+	font-style: italic;
+}
